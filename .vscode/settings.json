@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "incomming",
         "mavbot",
         "Pavlo",
         "ptarasyuk",
@@ -8,6 +9,7 @@
     "cSpell.ignoreWords": [
         "godotenv",
         "joho",
+        "slackevents",
         "socketmode"
     ]
 }
